@@ -12,3 +12,5 @@ Nowa gałąź? FEATURE - OPIS ?
 ......
 
 zadanie 6 - lokalna zmiana na ubuntu <.< >.>
+
+zmiana na github ).(

@@ -1,4 +1,4 @@
-Pierwszy plik :D - zad 1
+Pierwsza linia zmieniona na gałęzi B .\_/.
 
 Pierwsze edytowanie! >.< - zad 2
 

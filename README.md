@@ -1,4 +1,5 @@
-Pierwsza linia zmieniona na gałęzi A - ;(((
+
+Pierwsza linia zmieniona na gałęzi A - ;( - po błędzie merge - nie będzie gałęzi B haha
 
 Pierwsze edytowanie! >.< - zad 2
 

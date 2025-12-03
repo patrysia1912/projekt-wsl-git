@@ -8,3 +8,7 @@ Drugie edytowanie ^.^ - zad 3
 .....
 
 Nowa gałąź? FEATURE - OPIS ?
+
+......
+
+zadanie 6 - lokalna zmiana na ubuntu <.< >.>
